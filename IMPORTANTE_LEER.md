@@ -10,3 +10,4 @@ Pasos para ejecutar:
 7- ejecuta py bci-cartolas.py
 
 **Recomendado: desactivar la opcion de abrir automaticamente adobe si se descarga pdfs**
+En caso de algun error pruebe ejecutando el archivo pruebas.py con los pasos de arriba.
